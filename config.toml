@@ -1,0 +1,14 @@
+#Hugo configuration
+title = "qwredsfg"
+baseURL = "https:\/\/wedfr.asd.qwe"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+enableRobotsTXT = true
+
+[params]
+loginId = "1758823"
+subfolder = ""
+firstpartycookies = true
+cookiedomain = "asd.qwe"
+galleryChannelIds = ""
